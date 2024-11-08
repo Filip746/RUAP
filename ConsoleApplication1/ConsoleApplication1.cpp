@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Filip Kvesic, 1311031420\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Filip Kvesic\n";
+>>>>>>> 552bf82 (commit console app)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
